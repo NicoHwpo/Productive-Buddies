@@ -1,4 +1,5 @@
-This directory is where you'll write all of your code!
+Google SPS 2022 "Productive Buddies"
+<!--This directory is where you'll write all of your code!
 
 By default it contains a barebones portfolio web app. 
 
@@ -35,3 +36,4 @@ To deploy to appengine, run:
 ```
 mvn package appengine:deploy
 ```
+-->
